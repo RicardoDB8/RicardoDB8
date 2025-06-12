@@ -1,16 +1,18 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**RicardoDB8/RicardoDB8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:gear: Especialista de Procesos apasionado por la Mejora Continua  
+:computer: Programador Web novato con proyectos que me entusiasman  
+:mag_right: Curioso incansable de los procesos  
+:bulb: Me pagan por aprender y resolver problemas (¡y lo disfruto!)  
+:man_cook: Cocinero aficionado, siempre explorando nuevos sabores  
+:family: Con una familia que crece en amor y experiencias cada día
 
-Here are some ideas to get you started:
+### Vias de contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/Linkedin-Up-blue?logo=linkedin)](https://www.linkedin.com/in/ricardo-diego-bertarini-92a65b188/)
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/RicardoDB8/RicardoDB8)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RicardoDB8/AyudanteDeCocina)
+
