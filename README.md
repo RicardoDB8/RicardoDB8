@@ -16,3 +16,7 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RicardoDB8/AyudanteDeCocina)
 
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
