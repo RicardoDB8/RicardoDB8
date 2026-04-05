@@ -1,24 +1,44 @@
-## ¡Hola! 👋
+# ¡Hola! 👋
 
-:gear: Especialista de Procesos apasionado por la Mejora Continua y Planificador.
+🚀 Especialista de Procesos apasionado por la Mejora Continua y la tecnología  
+💻 Desarrollador web en crecimiento, construyendo proyectos reales  
+🔎 Curioso de los procesos, datos y sistemas  
+⚙️ Me gusta resolver problemas (y disfrutar el proceso)  
 
-:computer: Programador Web novato con proyectos que me entusiasman  
-:mag_right: Curioso incansable de los procesos  
-:bulb: Me pagan por aprender y resolver problemas (¡y lo disfruto!)  
-:man_cook: Cocinero aficionado, siempre explorando nuevos sabores  
-:family: Con una familia que crece en amor y experiencias cada día
+---
 
-### Vias de contacto
+## 🚀 Proyectos destacados
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-Up-blue?logo=linkedin)](https://www.linkedin.com/in/ricardo-diego-bertarini-92a65b188/)
+### 🏎️ Formula1 Dashboard
+Dashboard desarrollado en Laravel consumiendo la API OpenF1.
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/RicardoDB8/RicardoDB8)
+- Calendario de carreras
+- Sesiones (practice, qualifying, race)
+- Posiciones en pista
+- Campeonato de pilotos y equipos
+- UI estilo dashboard con colores por equipo
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/RicardoDB8/AyudanteDeCocina)
+👉 https://github.com/RicardoDB8/Formula1
 
-### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 5th, 2026, 12:37:51 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+![Último commit](https://img.shields.io/github/last-commit/RicardoDB8/Formula1)
+![Actividad mensual](https://img.shields.io/github/commit-activity/m/RicardoDB8/Formula1)
+
+---
+
+### 💼 Cariluma
+Proyecto personal orientado a soluciones digitales (tarjetas digitales, gestión, etc).
+
+👉 https://github.com/RicardoDB8/Cariluma
+
+![Último commit](https://img.shields.io/github/last-commit/RicardoDB8/Cariluma)
+![Actividad mensual](https://img.shields.io/github/commit-activity/m/RicardoDB8/Cariluma)
+
+---
+
+## 🌐 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+---
+
+⚡ Siempre aprendiendo, construyendo y mejorando
