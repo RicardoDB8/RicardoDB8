@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-:gear: Especialista de Procesos apasionado por la Mejora Continua y Planificador
+:gear: Especialista de Procesos apasionado por la Mejora Continua y Planificador.
 :computer: Programador Web novato con proyectos que me entusiasman  
 :mag_right: Curioso incansable de los procesos  
 :bulb: Me pagan por aprender y resolver problemas (¡y lo disfruto!)  
